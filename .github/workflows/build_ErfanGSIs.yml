@@ -14,10 +14,10 @@ on:
     types: [started]
     
 env:
-  ROM_URL:https://xiaomi.baishancdnx.cn/xdispatch700d3dbedf6c3d7b/bigota.d.miui.com/9.7.25/miui_PYXIS_9.7.25_f4c853eef1_9.0.zip?bsreqid=952709d5996dad92f8638de4fff594e5&DPhost=xiaomi.baishancdnx.cn
-  ROM_NAME:Generic
-  BUILD_TYPE:ab
-  TZ:Asia/Shanghai
+  ROM_URL: https://xiaomi.baishancdnx.cn/xdispatch700d3dbedf6c3d7b/bigota.d.miui.com/9.7.25/miui_PYXIS_9.7.25_f4c853eef1_9.0.zip?bsreqid=952709d5996dad92f8638de4fff594e5&DPhost=xiaomi.baishancdnx.cn
+  ROM_NAME: Generic
+  BUILD_TYPE: ab
+  TZ: Asia/Shanghai
 
 jobs:
   build:
